@@ -83,7 +83,7 @@ read:
     excerpt: "frontmatterContent"
 
 watch:
-  allowedFields: ["title", "tagline", "link", "image", "section", "tags", "name", "email", "twitter"]
+  allowedFields: ["title", "tagline", "link", "image", "section", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on watch"
   filename: "{options.submitdate}-{options.dashedtitle}"
