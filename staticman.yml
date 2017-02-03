@@ -99,6 +99,7 @@ watch:
   requiredFields: ["title", "tagline", "link", "section", "tags", "email"]
   transforms:
     email: md5
+    excerpt: "frontmatterContent"
 learn:
   allowedFields: ["title", "tagline", "link", "image", "section", "tags", "name", "email", "twitter"]
   branch: "master"
@@ -150,6 +151,7 @@ tools:
   requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
   transforms:
     email: md5
+    excerpt: "frontmatterContent"
 events:
   allowedFields: ["title", "tagline", "link", "image", "section", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
@@ -167,3 +169,4 @@ events:
   requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
   transforms:
     email: md5
+    excerpt: "frontmatterContent"
