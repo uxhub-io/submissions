@@ -96,7 +96,7 @@ watch:
   moderation: true
   name: "uxhub.io"
   path: "watch"
-  requiredFields: ["title", "tagline", "link", "section", "tags"]
+  requiredFields: ["title", "tagline", "link", "section", "tags", "email"]
   transforms:
     email: md5
 learn:
