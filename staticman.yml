@@ -118,7 +118,7 @@ learn:
   transforms:
     email: md5
 listen:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "name", "email", "twitter"]
+  allowedFields: ["title", "tagline", "link", "image", "section", "type", "audio", "excerpt", "tags", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on listen"
   filename: "{options.submitdate}-{options.dashedtitle}"
