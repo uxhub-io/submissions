@@ -134,6 +134,7 @@ listen:
   requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
   transforms:
     email: md5
+    excerpt: "frontmatterContent"
 tools:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
