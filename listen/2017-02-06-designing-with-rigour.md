@@ -10,7 +10,7 @@ tagline: >-
 image: >-
   https://drt-resources.imgix.net/uploads/images/aarronwalter.jpg?fit=crop&w=450&h=500
 audio: 'https://drt-resources.s3.amazonaws.com/uploads/audio/aarronwalter.mp3'
-tags: 'design, emotion, research'
+tags: 'design emotion research'
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-06T19:48:03.486Z'
 ---
