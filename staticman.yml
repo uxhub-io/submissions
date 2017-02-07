@@ -101,7 +101,7 @@ watch:
     email: md5
     excerpt: "frontmatterContent"
 learn:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "name", "email", "twitter"]
+  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on learn"
   filename: "{options.submitdate}-{options.dashedtitle}"
