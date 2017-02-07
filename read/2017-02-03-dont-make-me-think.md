@@ -5,7 +5,7 @@ section: read
 title: Don't make me think
 tagline: A Common Sense Approach to Web Usability
 image: 'https://c1.staticflickr.com/5/4123/4934854016_66ff64de1d_b.jpg'
-tags: 'usability, ui, accessibility'
+tags: 'usability ui accessibility'
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-03T23:56:42.722Z'
 ---
