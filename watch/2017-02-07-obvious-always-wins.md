@@ -9,4 +9,3 @@ tags: mobile design analysis
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-08T01:06:43.766Z'
 ---
-undefined
