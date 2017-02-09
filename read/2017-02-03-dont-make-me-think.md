@@ -2,6 +2,7 @@
 _id: 69257990-ea6c-11e6-ad79-4f1d9783ac7b
 link: 'https://www.sensible.com/dmmt.html'
 section: read
+type: books
 title: Don't make me think
 tagline: A Common Sense Approach to Web Usability
 image: 'https://c1.staticflickr.com/5/4123/4934854016_66ff64de1d_b.jpg'
