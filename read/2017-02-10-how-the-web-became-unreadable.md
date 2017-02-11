@@ -7,7 +7,7 @@ title: How the Web Became Unreadable
 tagline: >-
   I thought my eyesight was beginning to go. It turns out, I’m suffering from
   design.
-image: 'https://cdn-images-1.medium.com/max/1000/1*abNc50NCL55wb_DN9romNw.jpeg'
+image: '1abNc50NCL55wb_DN9romNw.jpeg'
 tags: usability accessibility ui
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-10T19:05:49.746Z'
