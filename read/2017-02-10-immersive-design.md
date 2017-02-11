@@ -9,7 +9,4 @@ image: 'https://cdn-images-1.medium.com/max/2000/1*CARCqJX-mfkhRnO_ACCn0A.png'
 tags: vr design
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-11T03:23:21.303Z'
-layout: verslag
-excerpt_separator: <!--more-->
 ---
-undefined
