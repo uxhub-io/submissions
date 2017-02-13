@@ -7,7 +7,7 @@ read:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedFields: ["title", "description", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
@@ -74,7 +74,7 @@ read:
 
   # Names of required files. If any of these isn't in the request or is empty,
   # an error will be thrown.
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
+  requiredFields: ["title", "description", "link", "image", "section", "tags", "email"]
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
@@ -83,7 +83,7 @@ read:
     excerpt: "frontmatterContent"
 
 watch:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedFields: ["title", "description", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on watch"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -96,12 +96,12 @@ watch:
   moderation: true
   name: "uxhub.io"
   path: "watch"
-  requiredFields: ["title", "tagline", "link", "section", "tags", "email"]
+  requiredFields: ["title", "description", "link", "section", "tags", "email"]
   transforms:
     email: md5
     excerpt: "frontmatterContent"
 learn:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedFields: ["title", "description", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on learn"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -114,11 +114,11 @@ learn:
   moderation: true
   name: "uxhub.io"
   path: "learn"
-  requiredFields: ["title", "tagline", "link", "section", "tags"]
+  requiredFields: ["title", "description", "link", "section", "tags"]
   transforms:
     email: md5
 listen:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "audio", "excerpt", "tags", "name", "email", "twitter"]
+  allowedFields: ["title", "description", "link", "image", "section", "type", "audio", "excerpt", "tags", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on listen"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -131,12 +131,12 @@ listen:
   moderation: true
   name: "uxhub.io"
   path: "listen"
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
+  requiredFields: ["title", "description", "link", "image", "section", "tags", "email"]
   transforms:
     email: md5
     excerpt: "frontmatterContent"
 tools:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedFields: ["title", "description", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New submission on learn"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -149,12 +149,12 @@ tools:
   moderation: true
   name: "uxhub.io"
   path: "tools"
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
+  requiredFields: ["title", "description", "link", "image", "section", "tags", "email"]
   transforms:
     email: md5
     excerpt: "frontmatterContent"
 events:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedFields: ["title", "description", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
   commitMessage: "New event"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -167,7 +167,7 @@ events:
   moderation: true
   name: "uxhub.io"
   path: "events"
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
+  requiredFields: ["title", "description", "link", "image", "section", "tags", "email"]
   transforms:
     email: md5
     excerpt: "frontmatterContent"
