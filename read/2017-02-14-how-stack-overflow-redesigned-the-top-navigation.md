@@ -8,13 +8,8 @@ title: How Stack Overflow Redesigned the Top Navigation
 tagline: There’s a ton you can learn by watching people try to use a feature
 image: 'https://i.stack.imgur.com/pYRge.png'
 tags: case-study usability testing research
-excerpt: >-
-  > During this time, we also evolved our product development process to include
-  more user research, allowing us to validate ideas earlier and surface more
-  users’ voices. There’s a ton you can learn by watching people try to use a
-  feature — things that don’t get uncovered when directly soliciting feedback.
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-14T18:30:50.099Z'
 timestamp: 1487097050
 ---
-undefined
+> During this time, we also evolved our product development process to include more user research, allowing us to validate ideas earlier and surface more users’ voices. There’s a ton you can learn by watching people try to use a feature — things that don’t get uncovered when directly soliciting feedback.
