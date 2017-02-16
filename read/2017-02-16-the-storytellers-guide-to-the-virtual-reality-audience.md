@@ -4,7 +4,7 @@ link: >-
   https://medium.com/stanford-d-school/the-storyteller-s-guide-to-the-virtual-reality-audience-19e92da57497#.ok0me9ak8
 section: read
 type: blog
-title: The Storyteller’s Guide to the Virtual Reality Audience
+title: 'The Storyteller’s Guide to the Virtual Reality Audience'
 tagline: >-
   As VR storytellers, we are charged with molding experience itself into story,
   and none of our storytelling tools have prepared us fully for that.
