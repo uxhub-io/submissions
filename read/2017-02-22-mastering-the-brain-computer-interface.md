@@ -10,11 +10,7 @@ tagline: >-
   neural signals of the brain and the machine language of a prosthetic arm
 image: 'http://singularityhub.com/wp-content/uploads/2008/07/arm1.jpg'
 tags: bci research biomedical
-excerpt: >-
-  > The first human clinical trials of a brain implant intended to control a
-  prosthetic arm are slated for 2009 at the Johns Hopkins University Biomedical
-  Instrumentation and Neuroengineering Laboratory, in Baltimore.
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-22T18:12:07.756Z'
 ---
-undefined
+> The first human clinical trials of a brain implant intended to control a prosthetic arm are slated for 2009 at the Johns Hopkins University Biomedical Instrumentation and Neuroengineering Laboratory, in Baltimore.
