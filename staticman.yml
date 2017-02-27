@@ -22,7 +22,7 @@ read:
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
   branch: "master"
-  commitMessage: "New submission on read"
+  commitMessage: "New submission on read - {fields.title}"
 
   # (*) REQUIRED
   #
@@ -87,7 +87,7 @@ watch:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   allowedOrigins: ["uxhub.io"]
   branch: "master"
-  commitMessage: "New submission on watch"
+  commitMessage: "New submission on watch - {fields.title}"
   filename: "{options.submitdate}-{options.dashedtitle}"
   format: "frontmatter"
   generatedFields:
@@ -105,7 +105,7 @@ watch:
 learn:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   branch: "master"
-  commitMessage: "New submission on learn"
+  commitMessage: "New submission on learn - {fields.title}"
   filename: "{options.submitdate}-{options.dashedtitle}"
   format: "frontmatter"
   generatedFields:
@@ -123,7 +123,7 @@ listen:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "audio", "excerpt", "tags", "name", "email", "twitter"]
   allowedOrigins: ["uxhub.io"]
   branch: "master"
-  commitMessage: "New submission on listen"
+  commitMessage: "New submission on listen - {fields.title}"
   filename: "{options.submitdate}-{options.dashedtitle}"
   format: "frontmatter"
   generatedFields:
@@ -142,7 +142,7 @@ tools:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   allowedOrigins: ["uxhub.io"]
   branch: "master"
-  commitMessage: "New submission on learn"
+  commitMessage: "New submission on learn - {fields.title}"
   filename: "{options.submitdate}-{options.dashedtitle}"
   format: "frontmatter"
   generatedFields:
@@ -161,7 +161,7 @@ events:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
   allowedOrigins: ["uxhub.io"]
   branch: "master"
-  commitMessage: "New event"
+  commitMessage: "New event - {fields.title}"
   filename: "{options.submitdate}-{options.dashedtitle}"
   format: "frontmatter"
   generatedFields:
