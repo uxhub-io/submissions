@@ -15,6 +15,7 @@ read:
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
   #allowedOrigins: ["localhost", "uxhub.io"]
+  allowedOrigins: ["uxhub.io"]
 
   # (*) REQUIRED
   #
@@ -84,6 +85,7 @@ read:
 
 watch:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedOrigins: ["uxhub.io"]
   branch: "master"
   commitMessage: "New submission on watch"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -119,6 +121,7 @@ learn:
     email: md5
 listen:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "audio", "excerpt", "tags", "name", "email", "twitter"]
+  allowedOrigins: ["uxhub.io"]
   branch: "master"
   commitMessage: "New submission on listen"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -137,6 +140,7 @@ listen:
     excerpt: "frontmatterContent"
 tools:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedOrigins: ["uxhub.io"]
   branch: "master"
   commitMessage: "New submission on learn"
   filename: "{options.submitdate}-{options.dashedtitle}"
@@ -155,6 +159,7 @@ tools:
     excerpt: "frontmatterContent"
 events:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedOrigins: ["uxhub.io"]
   branch: "master"
   commitMessage: "New event"
   filename: "{options.submitdate}-{options.dashedtitle}"
