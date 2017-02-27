@@ -104,6 +104,7 @@ watch:
     excerpt: "frontmatterContent"
 learn:
   allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedOrigins: ["uxhub.io"]
   branch: "master"
   commitMessage: "New submission on learn - {fields.title}"
   filename: "{options.submitdate}-{options.dashedtitle}"
