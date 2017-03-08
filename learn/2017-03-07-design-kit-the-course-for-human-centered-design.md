@@ -2,7 +2,7 @@
 _id: 95d57380-03b4-11e7-a7a9-e79dd357dba9
 link: 'http://plusacumen.org/courses/hcd-for-social-innovation/'
 section: learn
-type: other
+type: 'online course'
 title: 'Design Kit: The Course For Human-centered Design'
 tagline: >-
   The Course for Human-Centered Design is a seven-week curriculum that will
