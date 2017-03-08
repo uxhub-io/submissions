@@ -10,11 +10,7 @@ tagline: >-
 image: 'https://drt-resources.imgix.net/uploads/images/juliezhuo.jpg'
 audio: 'https://drt-resources.s3.amazonaws.com/uploads/audio/juliezhuo.mp3'
 tags: product-ideas
-excerpt: >-
-  > Focus on producing a lot of work and don’t be afraid to share that work with
-  the world. It can be intimidating to share your work but when you do, you
-  learn so much more and become better.
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-07T14:47:42.968Z'
 ---
-undefined
+> Focus on producing a lot of work and don’t be afraid to share that work with the world. It can be intimidating to share your work but when you do, you learn so much more and become better.
