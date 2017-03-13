@@ -16,4 +16,3 @@ date: '2017-02-06T19:48:03.486Z'
 ---
 > There’s not a lot of critical thinking in our industry, the focus is on execution. But recognising and seeing how disconnected things are related can help you see something with fresh eyes. Seeing the big picture is what helps us make great work.
 
-Reference: <a href="{{ page.link }}" target="_blank">{{ page.title }}.</a>

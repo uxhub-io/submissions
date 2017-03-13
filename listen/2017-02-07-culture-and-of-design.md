@@ -13,5 +13,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-07T18:57:33.658Z'
 ---
 > “Mobile-first” (and now too AI-first) has been a mantra of sorts in design, but what does that mean at a company, product management, and competitive level? Especially given someone at company X will always say “we should do what Y did” — even if they have no idea let alone data why Y did it.
-
-Reference: <a href="{{ page.link }}" target="_blank">{{ page.title }}</a>

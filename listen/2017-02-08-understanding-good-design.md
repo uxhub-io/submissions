@@ -15,5 +15,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-08T19:24:33.724Z'
 ---
 > Ask stupid questions. The stupid questions are the most powerful questions. When you ask why is it this way? That's where the power is, when you push. And that's the breakthrough that leads to great radical innovation.
-
-Reference: <a href="{{ page.link }}" target="_blank">{{ page.title }}</a>
