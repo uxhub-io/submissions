@@ -1,6 +1,7 @@
 ---
 _id: 25527350-f1f9-11e6-aa4c-d72dbee07ea5
 link: 'http://rosenfeldmedia.com/books/lean-user-research/'
+buy: http://amzn.to/2nSOQNX
 section: read
 type: book
 title: Validating Product Ideas
