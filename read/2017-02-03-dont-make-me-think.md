@@ -1,6 +1,7 @@
 ---
 _id: 69257990-ea6c-11e6-ad79-4f1d9783ac7b
 link: 'https://www.sensible.com/dmmt.html'
+buy: http://amzn.to/2nASWON
 section: read
 type: books
 title: Don't make me think
