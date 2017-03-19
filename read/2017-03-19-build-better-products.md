@@ -1,6 +1,7 @@
 ---
 _id: b7e57360-0cf8-11e7-b56c-6d70d621c9a2
 link: 'http://rosenfeldmedia.com/books/build-better-products/'
+buy: http://amzn.to/2nHqzeg
 section: read
 type: book
 title: Build Better Products
