@@ -1,6 +1,7 @@
 ---
 _id: a96c52c0-0cd7-11e7-a72f-39a833969806
 link: 'http://www.jnd.org/books.html#doet2'
+buy: http://amzn.to/2nT7wgv
 section: read
 type: book
 title: The Design of Everyday Things
