@@ -1,6 +1,7 @@
 ---
 _id: 494c1db0-0cf7-11e7-b56c-6d70d621c9a2
 link: 'http://userexperiencestrategy.com/'
+buy: http://amzn.to/2nHwMqN
 section: read
 type: book
 title: UX Strategy
