@@ -3,7 +3,7 @@ _id: 7c4659b0-0f13-11e7-b768-472e55294931
 link: >-
   http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/
 section: read
-type: other
+type: article
 title: Complete Beginner’s Guide to Information Architecture
 tagline: >-
   This article discuss what information architecture really is, and why it’s a
