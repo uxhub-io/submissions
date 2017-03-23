@@ -9,7 +9,7 @@ tagline: >-
   As VR storytellers, we are charged with molding experience itself into story,
   and none of our storytelling tools have prepared us fully for that.
 image: '1-qitvH_zPmLzS4YkVjYv_6w.jpeg'
-tags: vr storytelling case-study research
+tags: vr storytelling case-study research guide
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-16T16:03:45.637Z'
 ---
