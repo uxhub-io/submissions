@@ -18,4 +18,4 @@ An Experience map helps the organisation to see the bigger picture, and make dec
 
 * Identify projects and build a road map of work
 * Identify opportunities for innovation
-*Understand where the user experience is currently being well supported
+* Understand where the user experience is currently being well supported
