@@ -5,7 +5,7 @@ section: read
 type: article
 title: 'Fitbit: A UX Case Study'
 tagline: The UX behind the habit of exercise
-image: 'https://cdn-images-1.medium.com/max/800/1*_G-YYLD0Dqa-Q2iaEiB1zQ.png'
+image: '1__G-YYLD0Dqa-Q2iaEiB1zQ.png'
 tags: case-study process research analysis
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-03T17:28:51.848Z'
