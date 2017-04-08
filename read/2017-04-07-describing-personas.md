@@ -2,7 +2,7 @@
 _id: effc1480-1bf2-11e7-8bf6-9792b3d78c4c
 link: 'https://medium.com/@indiyoung/describing-personas-af992e3fc527'
 section: read
-type: article
+type: blog
 title: Describing Personas
 tagline: Personas don’t work as generalizations; they need specific context.
 image: >-
