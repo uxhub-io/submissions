@@ -12,4 +12,3 @@ tags: interaction prototypes ui testing
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-10T17:34:34.189Z'
 ---
-undefined
