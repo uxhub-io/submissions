@@ -7,7 +7,7 @@ title: 'Balancing Creativity with User Testing -- Designer vs. Developer #2'
 tagline: >-
   A show that tries to solve the challenges faced in the industry by opening a
   conversation between the two
-tags: collaboration process
+tags: collaboration workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-14T20:44:23.573Z'
 ---

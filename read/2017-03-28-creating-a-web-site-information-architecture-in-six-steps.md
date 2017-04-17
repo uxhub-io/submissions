@@ -7,7 +7,7 @@ type: article
 title: Creating a Web-Site Information Architecture in Six Steps
 tagline: Navigating the practice of Information Architecture
 image: 'http://www.uxmatters.com/mt/archives/2012/08/images/IASteps_figure-5.jpg'
-tags: ia process guide analysis
+tags: ia workflow guide analysis
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-28T17:50:47.437Z'
 ---

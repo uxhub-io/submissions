@@ -7,7 +7,7 @@ title: 'Creating a Collaborative Environment -- Designer vs. Developer #1'
 tagline: >-
   A show that tries to solve the challenges faced in industry by opening a
   conversation between the two
-tags: collaboration process
+tags: collaboration workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-08T03:39:11.672Z'
 ---

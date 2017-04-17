@@ -8,7 +8,7 @@ title: The Impacts of Video Games on Cognition
 tagline: (and How the Government Can Guide the Industry)
 image: >-
   https://qzprod.files.wordpress.com/2015/07/gaming.jpg?quality=80&strip=all&w=300
-tags: cognition gaming brain paper research
+tags: cognition gaming brain research
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-08T00:39:12.024Z'
 ---
