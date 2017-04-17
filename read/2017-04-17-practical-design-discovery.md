@@ -7,7 +7,7 @@ title: Practical Design Discovery
 tagline: >-
   Discovery isn’t just the first step in successful design work—it’s the most
   essential one.
-image: 'https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-22_100x@3x.png'
+image: 'https://alistapart.com/d/_made/d/excerptillustration_300_1920_938_81.jpg'
 tags: workflow usability
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-17T22:02:03.611Z'
