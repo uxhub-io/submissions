@@ -8,8 +8,7 @@ tagline: >-
   A show that tries to solve the challenges faced in the industry by opening a
   conversation between the two
 tags: workflow collaboration
-excerpt: "Welcome to Designer Vs Developer, a show that tries to solve the challenges faced in the industry by opening a conversation between the two, providing take aways, solutions to workflows, tools & discussions on everyday struggles. \r\n\r\nThis week Mustafa speaks to Ade Oshineye, a Developer Advocate on the Google Developer Relations Team, about how the incorrect use of design language has influenced us to adopt the UX practices of the native app world and how the web should seek to create a native language of its own."
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-17T22:27:54.682Z'
 ---
-undefined
+Welcome to Designer Vs Developer, a show that tries to solve the challenges faced in the industry by opening a conversation between the two, providing take aways, solutions to workflows, tools & discussions on everyday struggles. \r\n\r\nThis week Mustafa speaks to Ade Oshineye, a Developer Advocate on the Google Developer Relations Team, about how the incorrect use of design language has influenced us to adopt the UX practices of the native app world and how the web should seek to create a native language of its own.
