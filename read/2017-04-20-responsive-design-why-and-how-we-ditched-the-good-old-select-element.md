@@ -9,7 +9,7 @@ tagline: >-
   How rethinking the way users make complex selections across devices completely
   changed our design.
 image: 'https://cdn-images-1.medium.com/fit/t/1200/504/0*fK0MzuAxAwc2JQxt.png'
-tags: rwd usability complexity ui
+tags: rwd usability complexity ui case-study
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-21T00:08:42.303Z'
 ---
