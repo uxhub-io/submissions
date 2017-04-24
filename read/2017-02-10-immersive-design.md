@@ -1,6 +1,6 @@
 ---
 _id: 702df210-f009-11e6-bb0f-4f53c1bcc2e4
-link: 'https://backchannel.com/immersive-design-76499204d5f6#.24yujr5tv'
+link: 'https://backchannel.com/immersive-design-76499204d5f6'
 section: read
 type: blog
 title: Immersive design
