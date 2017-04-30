@@ -10,6 +10,7 @@ tagline: >-
   were available online (Berger, 2003)...
 image: >-
   http://1.bp.blogspot.com/-ei-VJUeOj2U/VkjeJC3g5FI/AAAAAAAAHFQ/d1Oze7IdIK0/s1600/11.png
+pdf: 'http://soar.wichita.edu/bitstream/handle/10057/500/d05022.pdf'
 tags: usability research
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-21T19:03:23.223Z'
