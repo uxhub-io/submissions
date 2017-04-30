@@ -3,7 +3,7 @@ _id: 0bcf8cb0-ec7c-11e6-bea4-f7239c234561
 link: >-
   https://www.fastcodesign.com/1672937/is-there-a-scientific-definition-of-design
 section: read
-type: blog
+type: paper
 title: Is there a scientific definition of "Design"?
 tagline: >-
   Saying definitively what design is (and isn’t) seems quixotic at best, but two
