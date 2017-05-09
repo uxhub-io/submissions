@@ -14,4 +14,3 @@ tags: research survey analysis workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-05-02T01:04:35.238Z'
 ---
-> User surveys are popping up on websites and mobile apps everywhere. Well-designed ones yield helpful data. Poorly executed ones are a waste oftime for users and researchers. Crafting a good questionnaire is a science,but luckily, substantial published research is available on the topic. It’seasy to write good questions when “survey best practices” are just a Googlesearch away…

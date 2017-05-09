@@ -10,4 +10,3 @@ tags: case-study analysis ui
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-21T19:43:56.042Z'
 ---
-> At Netflix we use personalization extensively and treat every situation as an opportunity to present the right content to each of our over 57 million members. The main way a member interacts with our recommendations is via the homepage, which they see when they log into Netflix on any supported device

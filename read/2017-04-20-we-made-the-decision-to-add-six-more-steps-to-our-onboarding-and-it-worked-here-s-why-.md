@@ -13,4 +13,3 @@ tags: complexity case-study testing analysis
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-21T00:53:51.789Z'
 ---
-> I can’t tell you how many PMs and engineers have told me “that’s too many clicks” while we figure out how to chop and condense into something that’s actually less clear.
