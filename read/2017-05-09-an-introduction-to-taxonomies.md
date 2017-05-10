@@ -12,5 +12,4 @@ tags: ia taxonomy content guide
 email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@khans1024'
 date: '2017-05-10T00:31:11.501Z'
-layout: post
 ---

@@ -13,5 +13,4 @@ tags: analysis data-visualization ui
 email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@Shilpi1412'
 date: '2017-05-10T00:23:24.057Z'
-layout: post
 ---
