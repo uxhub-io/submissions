@@ -13,27 +13,25 @@ tags: product-ideas
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-07T14:47:42.968Z'
 timestamps:
- - time: '02:18'
-   label: How design change along company's growth
- - time: '38:30'
+ - time: '01:18'
    label: Protecting fragile ideas
- - time: '34:55'
+ - time: '04:53'
    label: Core ideas, improvement and how features grow
- - time: '31:30'
+ - time: '08:18'
    label: User research and understanding user behavior
- - time: '26:50'
+ - time: '12:58'
    label: Developing where the product has more impact on
- - time: '24:54'
+ - time: '14:54'
    label: From idea to the final product
- - time: '20:04'
+ - time: '19:44'
    label: Where to find a good designer
- - time: '12:07'
+ - time: '27:41'
    label: The right tool for the problem
- - time: '08:20'
+ - time: '31:28'
    label: A "product driven" company
- - time: '06:30'
+ - time: '33:18'
    label: How interactions shift over time
- - time: '02:00'
+ - time: '37:48'
    label: Senior vs. junior designers
 ---
 > Focus on producing a lot of work and don’t be afraid to share that work with the world. It can be intimidating to share your work but when you do, you learn so much more and become better.
