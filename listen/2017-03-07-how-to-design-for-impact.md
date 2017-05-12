@@ -28,7 +28,7 @@ timestamps:
  - time: '27:40'
    label: The right tool for the right problem
  - time: '31:28'
-   label: A "product driven" company
+   label: A \"product driven\" company
  - time: '33:18'
    label: How interactions shift over time
  - time: '37:48'
