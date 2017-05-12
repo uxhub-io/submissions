@@ -13,9 +13,9 @@ tags: product-ideas
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-07T14:47:42.968Z'
 timestamps:
- - time: '01:18'
+ - time: '00:54'
    label: Protecting fragile ideas
- - time: '04:53'
+ - time: '04:38'
    label: Core ideas, improvement and how features grow
  - time: '08:18'
    label: User research and understanding user behavior
@@ -23,10 +23,10 @@ timestamps:
    label: Developing where the product has more impact on
  - time: '14:54'
    label: From idea to the final product
- - time: '19:44'
+ - time: '19:37'
    label: Where to find a good designer
- - time: '27:41'
-   label: The right tool for the problem
+ - time: '27:40'
+   label: The right tool for the right problem
  - time: '31:28'
    label: A "product driven" company
  - time: '33:18'
