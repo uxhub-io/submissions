@@ -16,7 +16,7 @@ timestamps:
  - time: '02:18'
    label: How design change along company's growth
  - time: '38:30'
-   labeProtecting fragile ideas
+   label: Protecting fragile ideas
  - time: '34:55'
    label: Core ideas, improvement and how features grow
  - time: '31:30'
