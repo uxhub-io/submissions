@@ -13,4 +13,3 @@ tags: storytelling presentation
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-18T03:15:16.457Z'
 ---
-> Yet when presenting complex-yet-eye-opening data to colleagues, a tidy 10-page report can fail to elicit the right reaction. That’s because when it comes to sharing research with your colleagues, presentation matters.

@@ -11,4 +11,3 @@ tags: ia workflow guide analysis
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-28T17:50:47.437Z'
 ---
-> The DSIA Research Initiative defines the practice of information architecture as “the effort of organizing and relating information in a way that simplifies how people navigate and use content on the Web.”

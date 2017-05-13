@@ -12,4 +12,3 @@ tags: workflow usability
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-17T22:02:03.611Z'
 ---
-> One of the hardest design problems I ever worked on was for a company that helps IT groups manage risk. Their product focused on open-source components—inexpensive and widely supported by an enormous community, but often vulnerable to security flaws.

@@ -13,4 +13,3 @@ tags: ia navigation strategy guide
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-22T15:23:22.352Z'
 ---
-> Information architecture is a task often shared by designers, developers, and content strategists. But regardless of who takes on the task, IA is a field of its own, with influences, tools, and resources that are worth investigation. In this article we’ll discuss what information architecture really is, and why it’s a valuable aspect of the user experience process.

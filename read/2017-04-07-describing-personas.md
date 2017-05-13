@@ -11,4 +11,3 @@ tags: personas guide analysis research
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-08T00:33:08.104Z'
 ---
-> Scope and context are paramount to your personas. A persona that attempts to represent every aspect of a person overall is pretty much useless

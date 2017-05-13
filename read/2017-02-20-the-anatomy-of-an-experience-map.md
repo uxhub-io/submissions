@@ -13,4 +13,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-21T02:12:54.689Z'
 timestamp: 1487643174
 ---
-> Experience maps have become more prominent over the past few years, largely because companies are realizing the interconnectedness of the cross-channel experience. It’s becoming increasingly useful to gain insight in order to orchestrate service touchpoints over time and space.

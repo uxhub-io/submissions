@@ -12,5 +12,3 @@ tags: usability accessibility ui
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-10T19:05:49.746Z'
 ---
-> It’s been getting harder for me to read things on my phone and my laptop. I’ve caught myself squinting and holding the screen closer to my face. I’ve worried that my eyesight is starting to go.
-

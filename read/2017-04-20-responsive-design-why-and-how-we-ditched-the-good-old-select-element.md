@@ -13,4 +13,3 @@ tags: rwd usability complexity ui case-study
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-21T00:08:42.303Z'
 ---
-> It’s the HTML select element. The invention of select dates back to 1995 with the introduction of the HTML 2.0 specification. So most of us have never experienced designing for web without select as an option. But it can be a really, really frustrating component to let into your designs. Let me tell you why.

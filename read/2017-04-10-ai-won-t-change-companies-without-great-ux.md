@@ -13,4 +13,3 @@ tags: ai uxd opinion
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-11T02:14:11.684Z'
 ---
-> How should smart management teams maximize the economic value of smarter systems?

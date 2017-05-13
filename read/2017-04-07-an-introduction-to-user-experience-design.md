@@ -10,5 +10,3 @@ tags: guide uxd
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-08T00:00:31.768Z'
 ---
-> What is UXD?
-> I always find it difficult explaining what I do as a UX Designer to my friends, family and sometimes even co-workers. At parties, with relatives and with the odd customs official I often fall back to ‘I design how websites work’, but that is an incomplete definition and understates my real suite of skills. In the same way plumbers don’t just unblock toilets, and being an electrician is far more technical than changing lightbulbs, UX designers do far more than sketch out where a button should appear on a web page.

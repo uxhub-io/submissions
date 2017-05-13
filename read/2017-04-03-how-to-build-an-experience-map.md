@@ -12,10 +12,3 @@ tags: analysis research user-journey guide
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-03T17:35:05.478Z'
 ---
-Why build an experience map?
-
-An Experience map helps the organisation to see the bigger picture, and make decisions about where to focus activity based on research. By seeing the bigger picture, you’re able to:
-
-* Identify projects and build a road map of work
-* Identify opportunities for innovation
-* Understand where the user experience is currently being well supported

@@ -11,4 +11,3 @@ tags: usability ui rwd
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-09T01:55:43.532Z'
 ---
-> When we built websites we usually started by defining the body text. The body text definition dictates how wide your main column is, the rest used to follow almost by itself. Used to. Until recently, screen resolution was more or less homogeneous. Today we deal with a variety of screen sizes and resolutions. This makes things much more complicated.

@@ -10,4 +10,3 @@ tags: analysis ui design workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-09T01:44:02.025Z'
 ---
-Customers don’t land on screens from out of nowhere. Specific sequences of actions lead customers through your app as they try to accomplish their tasks.

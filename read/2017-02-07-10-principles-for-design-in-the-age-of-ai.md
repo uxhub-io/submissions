@@ -11,5 +11,3 @@ tags: ai design tech context
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-02-08T00:35:13.646Z'
 ---
-> We're on the cusp of a new era of design. Beyond the two-dimensional focus on graphics and the three-dimensional focus on products, we're now in an era where designers are increasingly focusing on time and space, guided by technological advances in artificial intelligence, robotics, and smart environments.
-
