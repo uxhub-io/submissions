@@ -1,6 +1,6 @@
 ---
 _id: daf136a0-26ca-11e7-ba90-7b0064600583
-link: 'http://techblog.netflix.com/2015/04/learning-personalized-homepage.html'
+link: 'https://medium.com/netflix-techblog/learning-a-personalized-homepage-aa8ec670359a'
 section: read
 type: article
 title: Learning a Personalized Homepage
