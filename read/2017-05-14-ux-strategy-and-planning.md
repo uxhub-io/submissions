@@ -5,7 +5,7 @@ link: >-
 section: read
 type: article
 title: UX Strategy and Planning
-tagline: An Interview with Peter Morville by Paul Bruan
+tagline: An Interview with Peter Morville by Paul Bryan
 image: 'http://www.uxmatters.com/mt/archives/2017/04/images/PeterMorville.jpg'
 tags: ia uxd strategy planning
 email: 44e8f2569fcd795157035e74ed86ebd8
