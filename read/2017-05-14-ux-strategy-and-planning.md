@@ -12,4 +12,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@paulbryan'
 date: '2017-05-14T13:17:57.589Z'
 ---
-undefined
