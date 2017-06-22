@@ -14,4 +14,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@hvost'
 date: '2017-05-24T18:52:06.632Z'
 ---
-undefined

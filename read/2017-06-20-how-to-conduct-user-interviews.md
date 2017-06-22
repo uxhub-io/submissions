@@ -10,6 +10,4 @@ image: 'https://public-media.interaction-design.org/images/ux-daily/56de7f8ba10c
 tags: research
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-06-21T01:08:48.393Z'
-layout: post
 ---
-undefined
