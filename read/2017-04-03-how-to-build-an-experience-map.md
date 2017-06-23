@@ -8,7 +8,7 @@ tagline: >-
   An experience map shows the journey a customer has while experiencing a
   product or service.
 image: '1_3oZjhmcwtIn6RaP7rS1Euw.jpeg'
-tags: analysis research user-journey guide
+tags: analysis research guide
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-04-03T17:35:05.478Z'
 ---
