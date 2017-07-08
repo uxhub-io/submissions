@@ -13,4 +13,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@colmcq'
 date: '2017-07-08T16:58:50.848Z'
 ---
-undefined

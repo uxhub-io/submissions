@@ -13,4 +13,3 @@ email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@BlakeHudelson'
 date: '2017-06-23T02:31:51.631Z'
 ---
-undefined

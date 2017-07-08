@@ -9,9 +9,7 @@ tagline: >-
   experiences.
 image: 'https://cdn-images-1.medium.com/max/1600/1*6usmgEPJW7HZ-P0miNEhkQ.jpeg'
 tags: ui design
-excerpt: "Web and mobile apps move away from pages, towards completely personalized experiences. And this experience built on an aggregation of many individual pieces of content. Cards are the new creative concept.\r\nRegardless of how you feel about the concept, cards are here to stay."
 email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@101babich'
 date: '2017-07-08T17:03:57.795Z'
 ---
-undefined
