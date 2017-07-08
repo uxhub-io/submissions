@@ -1,6 +1,6 @@
 ---
 _id: 496c50f0-640c-11e7-8416-41edeefa2b4e
-link: 'https://youtu.be/DIGfwUt53nI'
+link: 'https://www.youtube.com/watch?v=DIGfwUt53nI'
 section: watch
 type: presentation
 title: How Words Can Make Your Product Stand Out
