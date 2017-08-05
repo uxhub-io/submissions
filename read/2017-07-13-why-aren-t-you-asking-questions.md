@@ -7,7 +7,7 @@ title: Why Aren’t You Asking Questions?
 tagline: >-
   It’s the kickoff meeting. You are the lead designer on the project, and this
   is the first meeting with everyone in the room.
-image: 'https://static.pexels.com/photos/92028/pexels-photo-92028.jpeg'
+image: 'https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg'
 tags: research strategy workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
 twitter: '@janicegervais'
