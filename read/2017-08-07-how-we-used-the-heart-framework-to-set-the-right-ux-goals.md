@@ -15,4 +15,3 @@ twitter: '@aditibhar'
 timestamp: 1502157544
 date: '2017-08-08T01:59:04.753Z'
 ---
-undefined
