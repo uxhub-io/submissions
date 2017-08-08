@@ -13,4 +13,3 @@ twitter: '@paminthelab'
 timestamp: 1502159885
 date: '2017-08-08T02:38:05.003Z'
 ---
-undefined
