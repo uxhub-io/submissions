@@ -2,12 +2,12 @@
 # different config blocks for different sections of your site.
 # For example, you can have one property to handle comment submission and
 # another one to handle posts.
-read:
+posts:
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
+  allowedFields: ["link", "title", "section", "type", "tagline", "image", "tags", "excerpt", "name", "twitter", "email"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
@@ -21,8 +21,8 @@ read:
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: "master"
-  commitMessage: "New on read - {fields.title}"
+  branch: "v2"
+  commitMessage: "New submission - {fields.title}"
 
   # (*) REQUIRED
   #
@@ -71,11 +71,11 @@ read:
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
-  path: "read"
+  path: "{options.section}/"
 
   # Names of required files. If any of these isn't in the request or is empty,
   # an error will be thrown.
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
+  requiredFields: ["link", "title", "section"]
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
@@ -83,97 +83,3 @@ read:
     email: md5
     excerpt: "frontmatterContent"
 
-watch:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
-  allowedOrigins: ["uxhub.io"]
-  branch: "master"
-  commitMessage: "New submission on watch - {fields.title}"
-  filename: "{options.submitdate}-{options.dashedtitle}"
-  format: "frontmatter"
-  generatedFields:
-    date:
-      type: date
-      options:
-        format: "iso8601"
-  moderation: true
-  name: "uxhub.io"
-  path: "watch"
-  requiredFields: ["title", "tagline", "link", "section", "tags", "email"]
-  transforms:
-    email: md5
-    excerpt: "frontmatterContent"
-learn:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
-  allowedOrigins: ["uxhub.io"]
-  branch: "master"
-  commitMessage: "New submission on learn - {fields.title}"
-  filename: "{options.submitdate}-{options.dashedtitle}"
-  format: "frontmatter"
-  generatedFields:
-    date:
-      type: date
-      options:
-        format: "iso8601"
-  moderation: true
-  name: "uxhub.io"
-  path: "learn"
-  requiredFields: ["title", "tagline", "link", "section", "tags"]
-  transforms:
-    email: md5
-listen:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "audio", "excerpt", "tags", "name", "email", "twitter"]
-  allowedOrigins: ["uxhub.io"]
-  branch: "master"
-  commitMessage: "New submission on listen - {fields.title}"
-  filename: "{options.submitdate}-{options.dashedtitle}"
-  format: "frontmatter"
-  generatedFields:
-    date:
-      type: date
-      options:
-        format: "iso8601"
-  moderation: true
-  name: "uxhub.io"
-  path: "listen"
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
-  transforms:
-    email: md5
-    excerpt: "frontmatterContent"
-tools:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
-  allowedOrigins: ["uxhub.io"]
-  branch: "master"
-  commitMessage: "New submission on learn - {fields.title}"
-  filename: "{options.submitdate}-{options.dashedtitle}"
-  format: "frontmatter"
-  generatedFields:
-    date:
-      type: date
-      options:
-        format: "iso8601"
-  moderation: true
-  name: "uxhub.io"
-  path: "tools"
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
-  transforms:
-    email: md5
-    excerpt: "frontmatterContent"
-events:
-  allowedFields: ["title", "tagline", "link", "image", "section", "type", "tags", "excerpt", "name", "email", "twitter"]
-  allowedOrigins: ["uxhub.io"]
-  branch: "master"
-  commitMessage: "New event - {fields.title}"
-  filename: "{options.submitdate}-{options.dashedtitle}"
-  format: "frontmatter"
-  generatedFields:
-    date:
-      type: date
-      options:
-        format: "iso8601"
-  moderation: true
-  name: "uxhub.io"
-  path: "events"
-  requiredFields: ["title", "tagline", "link", "image", "section", "tags", "email"]
-  transforms:
-    email: md5
-    excerpt: "frontmatterContent"
