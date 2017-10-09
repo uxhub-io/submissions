@@ -7,4 +7,4 @@ type: article
 image: 'https://uxmastery.com/wp-content/uploads/2016/07/interview.sketch.jpg'
 date: '2017-10-09T13:27:39.191Z'
 ---
-undefined
+
