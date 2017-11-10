@@ -6,7 +6,7 @@ section: design
 type: article
 tagline: The ingredients of a successful data table UI
 image: 'https://cdn-images-1.medium.com/max/1600/1*xhD2-Xa-jn1ve-jT0PLKTw.jpeg'
+author: '@CoyleAndrew'
 tags: table ui
 date: '2017-11-10T00:42:56.541Z'
 ---
-undefined
