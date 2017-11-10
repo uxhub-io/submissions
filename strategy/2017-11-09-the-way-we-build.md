@@ -2,7 +2,7 @@
 _id: d48f6f70-c5b2-11e7-b632-cf088a114575
 link: 'https://airbnb.design/the-way-we-build/'
 title: The Way We Build
-section: strategy
+section: casestudy
 type: article
 tagline: How rethinking the Airbnb app changed the way we approach design
 image: >-
@@ -12,4 +12,3 @@ name: Alex Schleifer
 twitter: '@alexoid'
 date: '2017-11-10T01:02:32.330Z'
 ---
-undefined
