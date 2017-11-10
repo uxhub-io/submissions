@@ -9,4 +9,3 @@ name: Jon Peterson
 twitter: '@jp_pete'
 date: '2017-11-10T01:14:42.031Z'
 ---
-undefined
