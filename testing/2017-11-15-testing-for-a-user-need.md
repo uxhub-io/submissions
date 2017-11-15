@@ -9,4 +9,3 @@ name: David Travis
 twitter: '@userfocus'
 date: '2017-11-15T18:21:13.596Z'
 ---
-undefined
