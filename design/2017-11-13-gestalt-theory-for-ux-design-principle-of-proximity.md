@@ -12,4 +12,3 @@ image: 'https://cdn-images-1.medium.com/max/2000/1*lfz3hHyaUODxG1a4tNSJEQ.png'
 tags: gestalt proximity ui
 date: '2017-11-13T18:18:57.344Z'
 ---
-undefined
