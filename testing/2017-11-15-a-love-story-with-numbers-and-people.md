@@ -6,4 +6,3 @@ section: testing
 type: video
 date: '2017-11-15T19:26:18.189Z'
 ---
-undefined
