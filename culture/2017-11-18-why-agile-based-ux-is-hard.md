@@ -8,13 +8,8 @@ tagline: >-
   Every so often I find myself in a conversation with someone who wants to put
   UX design into a typical agile or scrum process
 tags: agile ux scrum workflow
-excerpt: >-
-  Every so often I find myself in a conversation with someone who wants to put
-  UX design into a typical agile or scrum process together with the engineering
-  team, and if they are religious about agile workflows, sometimes it even
-  becomes an argument.
 name: Joel Marsh
 twitter: '@JoelMarsh'
 date: '2017-11-18T19:49:34.873Z'
 ---
-undefined
+Every so often I find myself in a conversation with someone who wants to put UX design into a typical agile or scrum process together with the engineering team, and if they are religious about agile workflows, sometimes it even becomes an argument.
