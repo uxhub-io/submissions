@@ -10,6 +10,6 @@ tagline: >-
 image: 'http://assets.uxbooth.com/uploads/2017/05/image7.jpg'
 tags: ia taxonomy guide
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@khans1024'
+twitter: '@khans1024'
 date: '2017-05-10T00:31:11.501Z'
 ---

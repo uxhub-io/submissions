@@ -11,6 +11,6 @@ image: >-
   http://uxmag.com/sites/default/files/uploads/choudhury-psychology-of-information-dashboards/psychology-of-information-dashboards-1.png
 tags: analysis data-visualization ui
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@Shilpi1412'
+twitter: '@Shilpi1412'
 date: '2017-05-10T00:23:24.057Z'
 ---

@@ -10,7 +10,7 @@ tagline: >-
 image: 'http://adaptivepath.org/uploads/images/journeymodel.png'
 tags: analysis research context
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@chrisrisdon'
+twitter: '@chrisrisdon'
 date: '2017-02-21T02:12:54.689Z'
 timestamp: 1487643174
 ---

@@ -11,6 +11,6 @@ tagline: >-
 image: 'https://cdn-images-1.medium.com/max/1600/1*4Ycc1tn14zTLma5v05dz1Q.png'
 tags: mobile product-design ui uxd gamification
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@vourkosa'
+twitter: '@vourkosa'
 date: '2017-04-30T04:01:23.872Z'
 ---

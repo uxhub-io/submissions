@@ -11,6 +11,6 @@ image: >-
   https://blog.intercomassets.com/wp-content/uploads/2016/06/29164430/Dribblization_of_Design_Hero.png
 tags: product-design workflow analysis
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@padday'
+twitter: '@padday'
 date: '2017-05-02T01:13:41.721Z'
 ---

@@ -10,6 +10,6 @@ tagline: >-
 image: 'https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg'
 tags: research strategy workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@janicegervais'
+twitter: '@janicegervais'
 date: '2017-07-13T18:35:37.421Z'
 ---

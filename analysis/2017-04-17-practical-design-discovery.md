@@ -10,6 +10,6 @@ tagline: >-
 image: 'https://alistapart.com/d/_made/d/excerptillustration_300_1920_938_81.jpg'
 tags: workflow usability
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@brownorama'
+twitter: '@brownorama'
 date: '2017-04-17T22:02:03.611Z'
 ---

@@ -10,6 +10,6 @@ tagline: >-
 image: 'https://cdn-images-1.medium.com/max/1600/1*6usmgEPJW7HZ-P0miNEhkQ.jpeg'
 tags: ui design
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@101babich'
+twitter: '@101babich'
 date: '2017-07-08T17:03:57.795Z'
 ---

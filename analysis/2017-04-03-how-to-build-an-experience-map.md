@@ -10,6 +10,6 @@ tagline: >-
 image: '1_3oZjhmcwtIn6RaP7rS1Euw.jpeg'
 tags: analysis research guide
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@wnialloconnor'
+twitter: '@wnialloconnor'
 date: '2017-04-03T17:35:05.478Z'
 ---

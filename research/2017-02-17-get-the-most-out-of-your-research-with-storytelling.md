@@ -11,6 +11,6 @@ image: >-
   https://blog.intercomassets.com/wp-content/uploads/2016/11/01101238/power_of_storytelling_logo.jpg
 tags: storytelling presentation
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@sillyjilly_uxr'
+twitter: '@sillyjilly_uxr'
 date: '2017-02-18T03:15:16.457Z'
 ---

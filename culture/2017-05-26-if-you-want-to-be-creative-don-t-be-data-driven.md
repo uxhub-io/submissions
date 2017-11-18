@@ -9,6 +9,6 @@ tagline: 3 Ideas that will completely change how you think about data
 image: 'https://cdn-images-1.medium.com/max/1000/1*rB3L3FaB-xkWAZjdO4cUGg.jpeg'
 tags: workflow product-design
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@billpardi'
+twitter: '@billpardi'
 date: '2017-05-26T18:35:26.535Z'
 ---

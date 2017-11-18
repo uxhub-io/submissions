@@ -11,6 +11,6 @@ tagline: >-
 image: 'https://cdn-images-1.medium.com/fit/t/1200/504/0*fK0MzuAxAwc2JQxt.png'
 tags: rwd usability complexity ui case-study
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@mibosc'
+twitter: '@mibosc'
 date: '2017-04-21T00:08:42.303Z'
 ---

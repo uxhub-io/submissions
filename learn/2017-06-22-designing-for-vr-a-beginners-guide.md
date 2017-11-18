@@ -10,6 +10,6 @@ tagline: >-
 image: 'https://cdn-images-1.medium.com/max/1600/1*4ZpqMR1WCy0etIaVKNNx0Q.jpeg'
 tags: vr guide
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@BlakeHudelson'
+twitter: '@BlakeHudelson'
 date: '2017-06-23T02:31:51.631Z'
 ---

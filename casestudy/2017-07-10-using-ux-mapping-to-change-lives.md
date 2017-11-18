@@ -9,6 +9,6 @@ audio: http://feeds.soundcloud.com/stream/330772671-rosenfeld-media-jim-kalbach.
 image: 'https://i1.sndcdn.com/avatars-000307529322-3f74ih-t500x500.jpg'
 tags: research social strategy
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@rosenfeldmedia'
+twitter: '@rosenfeldmedia'
 date: '2017-07-10T18:43:39.260Z'
 ---

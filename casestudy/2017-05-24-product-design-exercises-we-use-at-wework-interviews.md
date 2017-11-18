@@ -11,6 +11,6 @@ tagline: >-
 image: 'https://cdn-images-1.medium.com/max/800/1*cMq1RIHMnJbXXUdmp8CwjA.jpeg'
 tags: workflow product-design career
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@hvost'
+twitter: '@hvost'
 date: '2017-05-24T18:52:06.632Z'
 ---

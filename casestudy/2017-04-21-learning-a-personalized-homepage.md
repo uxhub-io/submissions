@@ -8,6 +8,6 @@ tagline: The main way a member interacts with our recommendations is via the hom
 image: 'https://www.lowyat.net/wp-content/uploads/2016/01/netflixmalaysia-800x456.jpg'
 tags: case-study analysis ui
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@justinbasilico'
+twitter: '@justinbasilico'
 date: '2017-04-21T19:43:56.042Z'
 ---

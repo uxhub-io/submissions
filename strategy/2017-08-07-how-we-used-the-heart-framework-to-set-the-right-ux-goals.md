@@ -11,7 +11,7 @@ tagline: >-
 image: 'https://cdn-images-1.medium.com/max/1600/1*QphFXK5od-GzyA2YL806oQ.png'
 tags: research metrics data
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@aditibhar'
+twitter: '@aditibhar'
 timestamp: 1502157544
 date: '2017-08-08T01:59:04.753Z'
 ---

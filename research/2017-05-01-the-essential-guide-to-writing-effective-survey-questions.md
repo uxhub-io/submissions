@@ -12,6 +12,6 @@ image: >-
   http://assets.uxbooth.com/uploads/2017/04/uxbooth-illo-usersurveysurvey1-1024x1024.png
 tags: research survey analysis workflow
 email: 44e8f2569fcd795157035e74ed86ebd8
-author: '@jennleighbrown'
+twitter: '@jennleighbrown'
 date: '2017-05-02T01:04:35.238Z'
 ---
