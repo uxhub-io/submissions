@@ -1,7 +1,7 @@
 ---
 _id: 9a0b8bc0-cc99-11e7-a95c-e5ff1cb2ac63
 link: 'http://thehipperelement.com/post/157273451799/why-agile-based-ux-is-hard'
-title: Why Agile-Based UX is Hard
+title: Why Agile Based UX is Hard
 section: culture
 type: blog
 tagline: >-
