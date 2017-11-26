@@ -11,4 +11,3 @@ name: Page Laubheimer
 twitter: '@page_level'
 date: '2017-11-26T02:48:12.793Z'
 ---
-undefined
