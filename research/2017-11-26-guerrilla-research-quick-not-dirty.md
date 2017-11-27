@@ -11,4 +11,3 @@ name: Maria Clara Rezende
 date: '2017-11-27T01:37:52.385Z'
 timestamp: 1511746672
 ---
-undefined
