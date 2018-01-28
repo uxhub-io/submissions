@@ -10,4 +10,3 @@ tags: culture design team
 name: Catherine Courage
 date: '2018-01-28T22:04:29.175Z'
 ---
-undefined
