@@ -13,4 +13,3 @@ image: >-
 tags: strategy design product-design
 date: '2018-03-14T13:46:31.388Z'
 ---
-About 15 years ago when I started at my first tech company, design was seen by most as an afterthought. Even as a senior designer, I wasn’t invited to meetings to present my work and couldn’t imagine anyone asking me to weigh in on a product decision. Flash forward to today, and many designers hold the coveted seat at the table we’ve long been dreaming of. We’re making key strategic decisions and helping to shape the direction of companies. We got here because we proved design can solve big problems in a way that others cannot. This is a victory, one that we earned through a lot of hard work, and we should be proud of ourselves.
