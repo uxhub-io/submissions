@@ -8,6 +8,7 @@ tagline: >-
   introduce you to the concepts of human-centered design
 image: 'http://plusacumen.org/wp-content/uploads/2013/03/hcd-ideo-pakistan.jpg'
 tags: ucd
+type: course
 email: 44e8f2569fcd795157035e74ed86ebd8
 date: '2017-03-08T04:06:20.520Z'
 ---
