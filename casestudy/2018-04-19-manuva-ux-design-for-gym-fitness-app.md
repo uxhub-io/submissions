@@ -6,6 +6,5 @@ title: Manuva. UX Design for Gym Fitness App
 section: casestudy
 type: article
 date: '2018-04-19T22:33:36.443Z'
-layout: post
 ---
  
