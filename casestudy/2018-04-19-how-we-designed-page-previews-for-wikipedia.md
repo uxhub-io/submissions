@@ -6,6 +6,5 @@ title: How we designed page previews for Wikipedia
 section: casestudy
 type: article
 date: '2018-04-19T23:02:25.076Z'
-layout: post
 ---
  
