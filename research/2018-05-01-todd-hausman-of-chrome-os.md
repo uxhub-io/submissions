@@ -9,7 +9,6 @@ tagline: >-
   Aidan Simpson interviews UX Researcher Todd Hausman about human side of
   research, taking career risks, and his work on Chrome OS
 tags:
-  - comment-subscription
+  - user-research
 date: '2018-05-01T19:41:01.002Z'
 ---
-undefined
