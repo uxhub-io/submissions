@@ -1,6 +1,8 @@
 ---
 _id: 938760d0-4d77-11e8-870a-cb7535202764
 link: >-
+  https://design.google/library/ux-research-chrome-os-todd-hausman/
+audio: >-
   http://traffic.libsyn.com/googledesignmethod/Method_Ep_11_Todd_Hausman_.mp3?dest-id=547072
 title: Todd Hausman of Chrome OS
 section: research
