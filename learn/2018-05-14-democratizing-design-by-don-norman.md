@@ -1,6 +1,6 @@
 ---
 _id: c61902a0-5778-11e8-a236-37b8dd17d24b
-link: 'https://www.youtube.com/watch?v=5B_2B2TwwXs&feature=youtu.be&t=18m33s'
+link: 'https://www.youtube.com/watch?v=5B_2B2TwwXs'
 title: Democratizing Design by Don Norman
 section: learn
 type: video
