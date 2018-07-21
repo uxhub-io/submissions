@@ -1,6 +1,6 @@
 ---
 _id: a13bbaf0-85f8-11e8-bc0b-854aed025d9d
-url: 'https://www.invisionapp.com/blog/design-debt/'
+link: 'https://www.invisionapp.com/blog/design-debt/'
 title: Design debt
 section: analysis
 type: article
